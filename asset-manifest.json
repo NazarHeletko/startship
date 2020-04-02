@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/startship/static/css/main.e00c9818.chunk.css",
-    "main.js": "/startship/static/js/main.cf4ab197.chunk.js",
-    "main.js.map": "/startship/static/js/main.cf4ab197.chunk.js.map",
+    "main.js": "/startship/static/js/main.b86bfbfd.chunk.js",
+    "main.js.map": "/startship/static/js/main.b86bfbfd.chunk.js.map",
     "runtime-main.js": "/startship/static/js/runtime-main.458c893d.js",
     "runtime-main.js.map": "/startship/static/js/runtime-main.458c893d.js.map",
     "static/js/2.74523571.chunk.js": "/startship/static/js/2.74523571.chunk.js",
     "static/js/2.74523571.chunk.js.map": "/startship/static/js/2.74523571.chunk.js.map",
     "index.html": "/startship/index.html",
-    "precache-manifest.e5469ae1aba76a78e142d6b049ad78e6.js": "/startship/precache-manifest.e5469ae1aba76a78e142d6b049ad78e6.js",
+    "precache-manifest.c897cf693a0c093993313fbc8c41424c.js": "/startship/precache-manifest.c897cf693a0c093993313fbc8c41424c.js",
     "service-worker.js": "/startship/service-worker.js",
     "static/css/main.e00c9818.chunk.css.map": "/startship/static/css/main.e00c9818.chunk.css.map",
     "static/js/2.74523571.chunk.js.LICENSE.txt": "/startship/static/js/2.74523571.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.458c893d.js",
     "static/js/2.74523571.chunk.js",
     "static/css/main.e00c9818.chunk.css",
-    "static/js/main.cf4ab197.chunk.js"
+    "static/js/main.b86bfbfd.chunk.js"
   ]
 }
