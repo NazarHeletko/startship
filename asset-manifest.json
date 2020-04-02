@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/startship/static/css/main.e00c9818.chunk.css",
+    "main.js": "/startship/static/js/main.cf4ab197.chunk.js",
+    "main.js.map": "/startship/static/js/main.cf4ab197.chunk.js.map",
+    "runtime-main.js": "/startship/static/js/runtime-main.458c893d.js",
+    "runtime-main.js.map": "/startship/static/js/runtime-main.458c893d.js.map",
+    "static/js/2.74523571.chunk.js": "/startship/static/js/2.74523571.chunk.js",
+    "static/js/2.74523571.chunk.js.map": "/startship/static/js/2.74523571.chunk.js.map",
+    "index.html": "/startship/index.html",
+    "precache-manifest.e5469ae1aba76a78e142d6b049ad78e6.js": "/startship/precache-manifest.e5469ae1aba76a78e142d6b049ad78e6.js",
+    "service-worker.js": "/startship/service-worker.js",
+    "static/css/main.e00c9818.chunk.css.map": "/startship/static/css/main.e00c9818.chunk.css.map",
+    "static/js/2.74523571.chunk.js.LICENSE.txt": "/startship/static/js/2.74523571.chunk.js.LICENSE.txt",
+    "static/media/preloader.gif": "/startship/static/media/preloader.0ded49c8.gif",
+    "static/media/App.css": "/startship/static/media/space-seamless-pattern.ee632e32.jpg",
+    "static/media/space-ship.gif": "/startship/static/media/space-ship.0621d1ea.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.458c893d.js",
+    "static/js/2.74523571.chunk.js",
+    "static/css/main.e00c9818.chunk.css",
+    "static/js/main.cf4ab197.chunk.js"
+  ]
+}
