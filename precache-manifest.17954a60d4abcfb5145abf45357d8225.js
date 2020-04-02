@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee621f78c9bdf8fc79dcdc2898051908",
+    "revision": "2fa65de543f5969f8effaffb0af5dcdd",
     "url": "/startship/index.html"
   },
   {
-    "revision": "fcaab2608a2bc308feea",
-    "url": "/startship/static/css/main.e00c9818.chunk.css"
+    "revision": "a4b1976845a210dd93c0",
+    "url": "/startship/static/css/main.49c82d4c.chunk.css"
   },
   {
     "revision": "41b9bcf2990da94ff190",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/startship/static/js/2.74523571.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcaab2608a2bc308feea",
+    "revision": "a4b1976845a210dd93c0",
     "url": "/startship/static/js/main.b86bfbfd.chunk.js"
   },
   {

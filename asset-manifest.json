@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/startship/static/css/main.e00c9818.chunk.css",
+    "main.css": "/startship/static/css/main.49c82d4c.chunk.css",
     "main.js": "/startship/static/js/main.b86bfbfd.chunk.js",
     "main.js.map": "/startship/static/js/main.b86bfbfd.chunk.js.map",
     "runtime-main.js": "/startship/static/js/runtime-main.458c893d.js",
@@ -8,9 +8,9 @@
     "static/js/2.74523571.chunk.js": "/startship/static/js/2.74523571.chunk.js",
     "static/js/2.74523571.chunk.js.map": "/startship/static/js/2.74523571.chunk.js.map",
     "index.html": "/startship/index.html",
-    "precache-manifest.c897cf693a0c093993313fbc8c41424c.js": "/startship/precache-manifest.c897cf693a0c093993313fbc8c41424c.js",
+    "precache-manifest.17954a60d4abcfb5145abf45357d8225.js": "/startship/precache-manifest.17954a60d4abcfb5145abf45357d8225.js",
     "service-worker.js": "/startship/service-worker.js",
-    "static/css/main.e00c9818.chunk.css.map": "/startship/static/css/main.e00c9818.chunk.css.map",
+    "static/css/main.49c82d4c.chunk.css.map": "/startship/static/css/main.49c82d4c.chunk.css.map",
     "static/js/2.74523571.chunk.js.LICENSE.txt": "/startship/static/js/2.74523571.chunk.js.LICENSE.txt",
     "static/media/preloader.gif": "/startship/static/media/preloader.0ded49c8.gif",
     "static/media/App.css": "/startship/static/media/space-seamless-pattern.ee632e32.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.458c893d.js",
     "static/js/2.74523571.chunk.js",
-    "static/css/main.e00c9818.chunk.css",
+    "static/css/main.49c82d4c.chunk.css",
     "static/js/main.b86bfbfd.chunk.js"
   ]
 }
