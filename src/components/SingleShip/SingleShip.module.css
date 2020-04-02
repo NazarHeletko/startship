@@ -1,0 +1,82 @@
+.single-ship {
+    background: #f0fafff7;
+    width: 968px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    min-height: calc(100vh - 80px);
+    margin: 40px 0;
+    border-radius: 4px;
+    color: #00165b;
+    position: relative;
+}
+.single-ship .home {
+    position: absolute;
+    top: 18px;
+    left: 20px;
+    cursor: pointer;
+}
+.single-ship .home img {
+    height: 38px;
+}
+.ship-info {
+    margin-top: 82px;
+}
+.single-ship h1 {
+    position: absolute;
+    top: 0;
+}
+.ship-info p span {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #000d57;
+}
+.ship-info p  {
+    text-align: center;
+    font-weight: normal;
+    color: #000d57;
+}
+
+@media screen and (max-width: 991px) {
+    .single-ship {
+        width: 710px;
+    }
+    .single-ship .home img {
+        height: 28px;
+    }
+    .single-ship .home {
+        position: absolute;
+        top: 28px;
+    }
+    .single-ship h1 {
+        font-size: 28px;
+        top: 6px;
+    }
+}
+
+@media screen and (max-width: 732px) {
+    .single-ship {
+        width: 550px;
+    }
+    .single-ship h1 {
+        font-size: 28px;
+        top: 24px;
+    }
+    .single-ship .home  {
+        height: 28px;
+        left: auto;
+        top: 14px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .single-ship {
+        width: 290px;
+    }
+    .single-ship h1 {
+        font-size: 16px;
+        top: 42px;
+    }
+}

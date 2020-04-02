@@ -1,0 +1,19 @@
+.search {
+    width: 70%;
+}
+.search input {
+    width: 100%;
+    outline: none;
+    border: none;
+    height: 30px;
+    border-radius: 4px;
+    font-weight: bold;
+    box-shadow: 0px 5px 20px -9px rgba(16,39,83,1);
+    text-align: center;
+    color: #00165b;
+    background: #ffffff78;
+}
+
+.search input::placeholder {
+    color: #001b6eb3;
+}

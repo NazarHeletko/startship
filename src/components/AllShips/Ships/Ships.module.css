@@ -1,0 +1,61 @@
+.single-item-ship h4 {
+    margin-top: 16px;
+    margin-bottom: 0;
+    color: #00165b;
+}
+.single-item-ship p {
+    text-align: center;
+}
+
+.single-item-ship  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 12px ;
+    width: 33.3%;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+.single-item-ship div {
+    box-shadow: 0px 5px 20px -9px rgba(16,39,83,1);
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 4px;
+}
+.ships {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 14px;
+    padding-bottom: 34px;
+    min-height: calc(100vh - 197px);
+    align-items: center;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.link {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: inherit;
+}
+@media screen and (max-width: 991px) {
+    .single-item-ship  {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 576px) {
+    .single-item-ship  {
+        width: 100%;
+    }
+    .ships{
+        padding-bottom: 48px;
+    }
+}
